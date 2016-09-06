@@ -1,0 +1,33 @@
+1: Board game
+We use the poke cards to play this game. Killers should try to kill all the policmen or all civics. And the civis should hlep the
+policmen to find out killers. Nobody can tell who is himself, and also can not tell who are they. One thing we can do is analysis 
+who are they, make you own decision.
+
+members： more than 9 people
+1 judger
+2 policmans(can be more)
+2 killers(can be more)
+4 civics (can be more)
+
+Goal
+all policmen dead, then policmen win. game over
+all killers dead, then policmen win. game over
+all the civics dead and still have killer live. then killers win. game over.
+
+Rules:
+Every one keep their eye closing. until the judger tell you to.
+A = policmen
+K = killer
+1~10 = civics
+
+Step 1) The judger orginize the game. At firstly, send the players the cards randomly.
+Step 2) Night time. everyone close their eyes beside killers who wake up to kill the person you think is policmen sneakly. 
+        Then close your eye quiet.
+Step 4) Day time. everone close their eyes beside policmen who choice one as the killer.
+Step 5) Everyone open their eyes. Then the judger tell everyone who(civi) die if the policmen did not find the killer in this turn. But
+        if they find one of the killer out. then the killer die.
+Step 6) Everyone tell others what is their idea about why he diea.
+Step 7) Go to next turn until all killers or civis or policment dead. then game over.
+
+
+
